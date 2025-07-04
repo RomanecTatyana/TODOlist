@@ -1,6 +1,6 @@
-import "./styles.css";
-import TaskList from "./TaskList";
-import AddTask from "./AddTask";
+import "./styles/styles.css";
+import TaskList from "./components/TaskList";
+import AddTask from "./components/AddTask";
 import { useState } from "react";
 import { Task } from "./types";
 

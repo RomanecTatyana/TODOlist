@@ -1,4 +1,4 @@
-import { Task } from "./types";
+import { Task } from "../types";
 
 function TaskList({ tasks }: { tasks: Task[] }) {
   return (
